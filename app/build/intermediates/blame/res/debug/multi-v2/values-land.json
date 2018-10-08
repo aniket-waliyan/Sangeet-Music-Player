@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/aniketwaliyan/Documents/Music-Player test1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6939250cf7b9058f566c3dd98186437a/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "11",
+                        "startColumns": "4",
+                        "startOffsets": "609",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "786"
+                    }
+                },
+                {
+                    "source": "/Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c5665cccc40dfebd550878f165a233e4/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "/Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/res/values-land/integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "59",
+                        "endOffsets": "110"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "549",
+                        "endColumns": "59",
+                        "endOffsets": "604"
+                    }
+                },
+                {
+                    "source": "/Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/res/values-land/dimens.xml",
+                    "from": {
+                        "startLines": "5,1,2,3",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "178,16,69,128",
+                        "endColumns": "59,52,58,48",
+                        "endOffsets": "233,64,123,172"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "328,388,441,500",
+                        "endColumns": "59,52,58,48",
+                        "endOffsets": "383,436,495,544"
+                    }
+                }
+            ]
+        }
+    ]
+}

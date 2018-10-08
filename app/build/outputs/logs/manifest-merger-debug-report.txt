@@ -1,0 +1,489 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:196:9-204:20
+	android:grantUriPermissions
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:200:13-47
+	android:authorities
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:198:13-51
+	android:exported
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:199:13-37
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:197:13-67
+manifest
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:1-207:12
+MERGED from [com.heinrichreimersoftware:material-intro:1.6.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-intro-1.6.2.aar/0ede637c1d0fb8d3366e82bf9e3e5941/AndroidManifest.xml:25:1-35:12
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/b025f541c2761168dbcc5902f7ed63b8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.1.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/639f14047bdf08a51957e56cdbedd04f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/1962c43276b98f6fafef2234819f4a59/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:2:1-17:12
+MERGED from [com.android.support:design:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6939250cf7b9058f566c3dd98186437a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v14:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/preference-v14-27.1.1.aar/66e935143a73b2ea6a47b4789cbc5ff7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/3ef76a1635a37f8b66d65444e814cb38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/SeekArc-1.2-kmod.aar/91e94825657aebc3c4034c2f860628c0/AndroidManifest.xml:25:1-37:12
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d9d27f6472c802f150952f09efb80966/AndroidManifest.xml:2:1-14:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cc699246a8250459cbaa98a2883d3d2c/AndroidManifest.xml:2:1-15:12
+MERGED from [com.afollestad:material-cab:0.1.12] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-cab-0.1.12.aar/379d77f0c68906959475a205a500de4a/AndroidManifest.xml:2:1-14:12
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/eb85da6b70d79d0ba05ac7fb8e3256d6/AndroidManifest.xml:16:6-20:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/39be43596208ff1f77bf569fdc252234/AndroidManifest.xml:6:1-16:12
+MERGED from [com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/advrecyclerview-0.11.0.aar/d83f3831659247a29a11168800f4ec2f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c5665cccc40dfebd550878f165a233e4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v13:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/e497735276a478268d6e78e58d37dab5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.0-kmod3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/AndroidSlidingUpPanel-3.3.0-kmod3.aar/d78fda2db782edddb1b5f91452381816/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/13fdac75aaf1405fa7c77b8e183e3f27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/040b9a43b2953129f0c053f8aa3f9361/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/1e03a5809007acfa5274e66439b2102d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.kabouzeid:RecyclerView-FastScroll:1.0.16-kmod] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/RecyclerView-FastScroll-1.0.16-kmod.aar/f90bc7c00735e0fd1edbff9c42d5088a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/android-observablescrollview-1.6.0.aar/a029f37d9bedee42e25abfb3287af576/AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fb77cd552c891a52c2c5b26499b0912b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/17c42ec9c92ed14e379c8a44f9cb640c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ea9e795d0e777176be6b78ec852e5328/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c79d7c41043ec072f86aa052fc5bf88d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/f181ab0f678c2d95d2df81ab5f96409f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:percent:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/percent-27.1.1.aar/e94b844e0a553e588ce170115395f338/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c54390b226221b822071d73465e32dc2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:transition:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/8e6f1b9f26cea92a6ba534ead2e43f60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3c8b27e06bac1db6ce7b79ed6c75a382/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/39fb9fcd163bb74fdc331b5e9d53bca0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/db738abaa45e0b040da34b8c225ba8e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6a23abd8d72db65d15451ced05531b64/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8eb5effe2cad123e8b5333c96b92bd7b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ad238a49d996d5f2ca9973038d63c8e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a149d5872a0117accf184ad2a83ca00d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.AdrienPoupa:jaudiotagger:2.2.3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/jaudiotagger-2.2.3.aar/c2d7ba687f307c9f9aed7a11e61f81ce/AndroidManifest.xml:2:1-12:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0de1166c69cf16267262868662895695/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7a42aeb3396b48f1c5ddc53a83fe08f1/AndroidManifest.xml:2:1-11:12
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:1-207:12
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:1-207:12
+	package
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:11-38
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:1-207:12
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:2:1-207:12
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:3:5-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.BROADCAST_STICKY
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:11:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:12:22-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:13:22-78
+application
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:15:5-205:19
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/1962c43276b98f6fafef2234819f4a59/AndroidManifest.xml:9:5-20
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/1962c43276b98f6fafef2234819f4a59/AndroidManifest.xml:9:5-20
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/SeekArc-1.2-kmod.aar/91e94825657aebc3c4034c2f860628c0/AndroidManifest.xml:35:5-20
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/SeekArc-1.2-kmod.aar/91e94825657aebc3c4034c2f860628c0/AndroidManifest.xml:35:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d9d27f6472c802f150952f09efb80966/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d9d27f6472c802f150952f09efb80966/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cc699246a8250459cbaa98a2883d3d2c/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cc699246a8250459cbaa98a2883d3d2c/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad:material-cab:0.1.12] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-cab-0.1.12.aar/379d77f0c68906959475a205a500de4a/AndroidManifest.xml:12:5-20
+MERGED from [com.afollestad:material-cab:0.1.12] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-cab-0.1.12.aar/379d77f0c68906959475a205a500de4a/AndroidManifest.xml:12:5-20
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/eb85da6b70d79d0ba05ac7fb8e3256d6/AndroidManifest.xml:19:5-19
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/eb85da6b70d79d0ba05ac7fb8e3256d6/AndroidManifest.xml:19:5-19
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.0-kmod3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/AndroidSlidingUpPanel-3.3.0-kmod3.aar/d78fda2db782edddb1b5f91452381816/AndroidManifest.xml:9:5-20
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.0-kmod3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/AndroidSlidingUpPanel-3.3.0-kmod3.aar/d78fda2db782edddb1b5f91452381816/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7a42aeb3396b48f1c5ddc53a83fe08f1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7a42aeb3396b48f1c5ddc53a83fe08f1/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:20:9-41
+	tools:ignore
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:23:9-39
+	android:roundIcon
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:22:9-49
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:16:9-28
+activity#com.android.music.ui.activities.MainActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:24:9-90:20
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:24:19-61
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.MUSIC_PLAYER+category:name:android.intent.category.APP_MUSIC+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:25:13-32:29
+action#android.intent.action.MAIN
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:26:25-66
+action#android.intent.action.MUSIC_PLAYER
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:27:25-74
+category#android.intent.category.LAUNCHER
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:29:27-74
+category#android.intent.category.APP_MUSIC
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:30:17-78
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:30:27-75
+category#android.intent.category.DEFAULT
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:31:27-73
+intent-filter#action:name:android.media.action.MEDIA_PLAY_FROM_SEARCH+category:name:android.intent.category.DEFAULT
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:33:13-37:29
+action#android.media.action.MEDIA_PLAY_FROM_SEARCH
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:34:17-86
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:34:25-83
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:content
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:38:13-48:29
+action#android.intent.action.VIEW
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:39:25-66
+data
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:43:17-50
+	android:scheme
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:43:23-47
+	android:mimeType
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:44:23-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:file
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:49:13-59:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/itunes+data:mimeType:application/ogg+data:mimeType:application/x-ogg+data:mimeType:audio/*+data:scheme:http
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:60:13-69:29
+category#android.intent.category.BROWSABLE
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:63:17-78
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:63:27-75
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/albums+data:mimeType:vnd.android.cursor.dir/artists+data:mimeType:vnd.android.cursor.dir/playlist
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:70:13-76:29
+intent-filter#action:name:com.cyanogenmod.eleven.AUDIO_PLAYER+category:name:android.intent.category.DEFAULT
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:77:13-81:29
+action#com.cyanogenmod.eleven.AUDIO_PLAYER
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:78:17-78
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:78:25-75
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:vnd.android.cursor.dir/audio
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:82:13-89:29
+action#android.intent.action.PICK
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:83:17-69
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:83:25-66
+category#android.intent.category.OPENABLE
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:86:17-77
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:86:27-74
+activity#com.android.music.ui.activities.AlbumDetailActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:91:9-71
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:91:19-68
+activity#com.android.music.ui.activities.ArtistDetailActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:92:9-72
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:92:19-69
+activity#com.android.music.ui.activities.GenreDetailActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:93:9-71
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:93:19-68
+activity#com.android.music.ui.activities.PlaylistDetailActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:94:9-74
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:94:19-71
+activity#com.android.music.ui.activities.tageditor.SongTagEditorActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:95:9-97:58
+	android:windowSoftInputMode
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:97:13-55
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:96:13-74
+activity#com.android.music.ui.activities.tageditor.AlbumTagEditorActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:98:9-100:58
+	android:windowSoftInputMode
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:100:13-55
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:99:13-75
+activity#com.android.music.ui.activities.SearchActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:101:9-66
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:101:19-63
+activity#com.android.music.ui.activities.SettingsActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:102:9-104:55
+	android:label
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:104:13-52
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:103:13-59
+activity#com.android.music.ui.activities.AboutActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:105:9-107:52
+	android:label
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:107:13-49
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:106:13-56
+activity#com.android.music.ui.activities.intro.AppIntroActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:108:9-111:50
+	android:label
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:110:13-48
+	android:theme
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:111:13-47
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:109:13-65
+activity#com.android.music.appshortcuts.AppShortcutLauncherActivity
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:112:9-115:75
+	android:launchMode
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:114:13-48
+	android:theme
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:115:13-72
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:113:13-69
+service#com.android.music.service.MusicService
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:117:9-119:38
+	android:enabled
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:119:13-35
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:118:13-49
+receiver#com.android.music.service.MediaButtonIntentReceiver
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:121:9-125:20
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:121:19-68
+intent-filter#action:name:android.intent.action.MEDIA_BUTTON
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:122:13-124:29
+action#android.intent.action.MEDIA_BUTTON
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:123:17-77
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:123:25-74
+meta-data#android.max_aspect
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:127:9-129:35
+	android:value
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:129:13-32
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:128:13-46
+meta-data#com.lge.support.SPLIT_WINDOW
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:130:9-132:36
+	android:value
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:132:13-33
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:131:13-56
+meta-data#com.android.music.glide.MusicGlideModule
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:133:9-135:43
+	android:value
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:135:13-40
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:134:13-68
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:136:9-138:43
+	android:value
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:138:13-40
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:137:13-84
+receiver#com.android.music.appwidgets.BootReceiver
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:141:9-146:20
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:141:19-58
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:142:13-145:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:143:17-79
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:143:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:144:17-82
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:144:25-79
+receiver#com.android.music.appwidgets.AppWidgetBig
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:147:9-158:20
+	android:label
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:150:13-56
+	android:exported
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:149:13-37
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:148:13-52
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:151:13-153:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:152:17-84
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:152:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:155:13-157:63
+	android:resource
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:157:17-60
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:156:17-58
+receiver#com.android.music.appwidgets.AppWidgetClassic
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:159:9-170:20
+	android:label
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:162:13-60
+	android:exported
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:161:13-37
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:160:13-56
+receiver#com.android.music.appwidgets.AppWidgetSmall
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:171:9-182:20
+	android:label
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:174:13-58
+	android:exported
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:173:13-37
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:172:13-54
+receiver#com.android.music.appwidgets.AppWidgetCard
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:183:9-194:20
+	android:label
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:186:13-57
+	android:exported
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:185:13-37
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:184:13-53
+uses-sdk
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+MERGED from [com.heinrichreimersoftware:material-intro:1.6.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-intro-1.6.2.aar/0ede637c1d0fb8d3366e82bf9e3e5941/AndroidManifest.xml:31:5-33:41
+MERGED from [com.heinrichreimersoftware:material-intro:1.6.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-intro-1.6.2.aar/0ede637c1d0fb8d3366e82bf9e3e5941/AndroidManifest.xml:31:5-33:41
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/b025f541c2761168dbcc5902f7ed63b8/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.1.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/adapters-3.1.2.aar/b025f541c2761168dbcc5902f7ed63b8/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/639f14047bdf08a51957e56cdbedd04f/AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.1.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/library-3.1.2.aar/639f14047bdf08a51957e56cdbedd04f/AndroidManifest.xml:22:5-44
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/1962c43276b98f6fafef2234819f4a59/AndroidManifest.xml:7:5-43
+MERGED from [com.jakewharton.hugo:hugo-runtime:1.2.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/hugo-runtime-1.2.1.aar/1962c43276b98f6fafef2234819f4a59/AndroidManifest.xml:7:5-43
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6939250cf7b9058f566c3dd98186437a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6939250cf7b9058f566c3dd98186437a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/preference-v14-27.1.1.aar/66e935143a73b2ea6a47b4789cbc5ff7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v14:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/preference-v14-27.1.1.aar/66e935143a73b2ea6a47b4789cbc5ff7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/3ef76a1635a37f8b66d65444e814cb38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/3ef76a1635a37f8b66d65444e814cb38/AndroidManifest.xml:20:5-44
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/SeekArc-1.2-kmod.aar/91e94825657aebc3c4034c2f860628c0/AndroidManifest.xml:31:5-33:41
+MERGED from [com.github.kabouzeid:SeekArc:1.2-kmod] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/SeekArc-1.2-kmod.aar/91e94825657aebc3c4034c2f860628c0/AndroidManifest.xml:31:5-33:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d9d27f6472c802f150952f09efb80966/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:commons:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/commons-0.9.6.0.aar/d9d27f6472c802f150952f09efb80966/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cc699246a8250459cbaa98a2883d3d2c/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cc699246a8250459cbaa98a2883d3d2c/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad:material-cab:0.1.12] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-cab-0.1.12.aar/379d77f0c68906959475a205a500de4a/AndroidManifest.xml:8:5-10:41
+MERGED from [com.afollestad:material-cab:0.1.12] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-cab-0.1.12.aar/379d77f0c68906959475a205a500de4a/AndroidManifest.xml:8:5-10:41
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/eb85da6b70d79d0ba05ac7fb8e3256d6/AndroidManifest.xml:18:5-72
+MERGED from [de.psdev.licensesdialog:licensesdialog:1.8.3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/licensesdialog-1.8.3.aar/eb85da6b70d79d0ba05ac7fb8e3256d6/AndroidManifest.xml:18:5-72
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/39be43596208ff1f77bf569fdc252234/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.4.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/library-1.4.2.aar/39be43596208ff1f77bf569fdc252234/AndroidManifest.xml:12:5-14:41
+MERGED from [com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/advrecyclerview-0.11.0.aar/d83f3831659247a29a11168800f4ec2f/AndroidManifest.xml:23:5-25:41
+MERGED from [com.h6ah4i.android.widget.advrecyclerview:advrecyclerview:0.11.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/advrecyclerview-0.11.0.aar/d83f3831659247a29a11168800f4ec2f/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c5665cccc40dfebd550878f165a233e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c5665cccc40dfebd550878f165a233e4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/e497735276a478268d6e78e58d37dab5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-v13-27.1.1.aar/e497735276a478268d6e78e58d37dab5/AndroidManifest.xml:20:5-44
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.0-kmod3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/AndroidSlidingUpPanel-3.3.0-kmod3.aar/d78fda2db782edddb1b5f91452381816/AndroidManifest.xml:7:5-43
+MERGED from [com.github.kabouzeid:AndroidSlidingUpPanel:3.3.0-kmod3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/AndroidSlidingUpPanel-3.3.0-kmod3.aar/d78fda2db782edddb1b5f91452381816/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/13fdac75aaf1405fa7c77b8e183e3f27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/13fdac75aaf1405fa7c77b8e183e3f27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/040b9a43b2953129f0c053f8aa3f9361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/040b9a43b2953129f0c053f8aa3f9361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/1e03a5809007acfa5274e66439b2102d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:gridlayout-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/gridlayout-v7-27.1.1.aar/1e03a5809007acfa5274e66439b2102d/AndroidManifest.xml:20:5-44
+MERGED from [com.github.kabouzeid:RecyclerView-FastScroll:1.0.16-kmod] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/RecyclerView-FastScroll-1.0.16-kmod.aar/f90bc7c00735e0fd1edbff9c42d5088a/AndroidManifest.xml:7:5-44
+MERGED from [com.github.kabouzeid:RecyclerView-FastScroll:1.0.16-kmod] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/RecyclerView-FastScroll-1.0.16-kmod.aar/f90bc7c00735e0fd1edbff9c42d5088a/AndroidManifest.xml:7:5-44
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/android-observablescrollview-1.6.0.aar/a029f37d9bedee42e25abfb3287af576/AndroidManifest.xml:21:5-43
+MERGED from [com.github.ksoichiro:android-observablescrollview:1.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/android-observablescrollview-1.6.0.aar/a029f37d9bedee42e25abfb3287af576/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fb77cd552c891a52c2c5b26499b0912b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/fb77cd552c891a52c2c5b26499b0912b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/17c42ec9c92ed14e379c8a44f9cb640c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/17c42ec9c92ed14e379c8a44f9cb640c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ea9e795d0e777176be6b78ec852e5328/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ea9e795d0e777176be6b78ec852e5328/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c79d7c41043ec072f86aa052fc5bf88d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/c79d7c41043ec072f86aa052fc5bf88d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/f181ab0f678c2d95d2df81ab5f96409f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/f181ab0f678c2d95d2df81ab5f96409f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/percent-27.1.1.aar/e94b844e0a553e588ce170115395f338/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/percent-27.1.1.aar/e94b844e0a553e588ce170115395f338/AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c54390b226221b822071d73465e32dc2/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/c54390b226221b822071d73465e32dc2/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:transition:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/8e6f1b9f26cea92a6ba534ead2e43f60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/8e6f1b9f26cea92a6ba534ead2e43f60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3c8b27e06bac1db6ce7b79ed6c75a382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/3c8b27e06bac1db6ce7b79ed6c75a382/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/39fb9fcd163bb74fdc331b5e9d53bca0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/39fb9fcd163bb74fdc331b5e9d53bca0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/db738abaa45e0b040da34b8c225ba8e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/db738abaa45e0b040da34b8c225ba8e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6a23abd8d72db65d15451ced05531b64/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/6a23abd8d72db65d15451ced05531b64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8eb5effe2cad123e8b5333c96b92bd7b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/8eb5effe2cad123e8b5333c96b92bd7b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ad238a49d996d5f2ca9973038d63c8e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/ad238a49d996d5f2ca9973038d63c8e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a149d5872a0117accf184ad2a83ca00d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a149d5872a0117accf184ad2a83ca00d/AndroidManifest.xml:20:5-44
+MERGED from [com.github.AdrienPoupa:jaudiotagger:2.2.3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/jaudiotagger-2.2.3.aar/c2d7ba687f307c9f9aed7a11e61f81ce/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.AdrienPoupa:jaudiotagger:2.2.3] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/jaudiotagger-2.2.3.aar/c2d7ba687f307c9f9aed7a11e61f81ce/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0de1166c69cf16267262868662895695/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0de1166c69cf16267262868662895695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7a42aeb3396b48f1c5ddc53a83fe08f1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/7a42aeb3396b48f1c5ddc53a83fe08f1/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.afollestad.material-dialogs:core:0.9.6.0] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cc699246a8250459cbaa98a2883d3d2c/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:201:13-203:57
+	android:resource
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:203:17-55
+	android:name
+		ADDED from /Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/AndroidManifest.xml:202:17-67
+activity#com.kabouzeid.appthemehelper.common.ATHToolbarActivity
+ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:12:9-91
+	android:name
+		ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:12:19-88
+activity#com.kabouzeid.appthemehelper.ATHActivity
+ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:13:9-77
+	android:name
+		ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:13:19-74
+activity#com.kabouzeid.appthemehelper.common.ATHActionBarActivity
+ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:14:9-93
+	android:name
+		ADDED from [com.github.kabouzeid:app-theme-helper:1.3.10] /Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/app-theme-helper-1.3.10.aar/139b26aa974f3fa742b4a616d16625f1/AndroidManifest.xml:14:19-90

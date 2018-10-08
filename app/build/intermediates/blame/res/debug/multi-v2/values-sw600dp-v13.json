@@ -1,0 +1,89 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/aniketwaliyan/Documents/Music-Player test1/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/res/values-sw600dp/integers.xml",
+                    "from": {
+                        "startLines": "2,3,5,6,11,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,167,220,373,279,323",
+                        "endColumns": "52,57,52,57,59,43,48",
+                        "endOffsets": "103,161,215,273,428,318,367"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1334,1387,1445,1498,1619,1679,1723",
+                        "endColumns": "52,57,52,57,59,43,48",
+                        "endOffsets": "1382,1440,1493,1551,1674,1718,1767"
+                    }
+                },
+                {
+                    "source": "/Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/c5665cccc40dfebd550878f165a233e4/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,193,263,337,413,472,543",
+                        "endColumns": "68,68,69,73,75,58,70,67",
+                        "endOffsets": "119,188,258,332,408,467,538,606"
+                    }
+                },
+                {
+                    "source": "/Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/core-0.9.6.0.aar/cc699246a8250459cbaa98a2883d3d2c/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "51",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1282",
+                        "endColumns": "51",
+                        "endOffsets": "1329"
+                    }
+                },
+                {
+                    "source": "/Users/aniketwaliyan/Documents/Music-Player test1/app/src/main/res/values-sw600dp/dimens.xml",
+                    "from": {
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "16,69",
+                        "endColumns": "52,58",
+                        "endOffsets": "64,123"
+                    },
+                    "to": {
+                        "startLines": "18,19",
+                        "startColumns": "4,4",
+                        "startOffsets": "1170,1223",
+                        "endColumns": "52,58",
+                        "endOffsets": "1218,1277"
+                    }
+                },
+                {
+                    "source": "/Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/6939250cf7b9058f566c3dd98186437a/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,185,256,328,386,444,550,614,677",
+                        "endLines": "2,3,4,5,6,7,8,9,10,14",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "110,180,251,323,381,439,545,609,672,854"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16,17,25,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "611,671,741,812,884,942,1000,1106,1556,1772",
+                        "endLines": "10,11,12,13,14,15,16,17,25,32",
+                        "endColumns": "59,69,70,71,57,57,105,63,62,12",
+                        "endOffsets": "666,736,807,879,937,995,1101,1165,1614,1949"
+                    }
+                }
+            ]
+        }
+    ]
+}

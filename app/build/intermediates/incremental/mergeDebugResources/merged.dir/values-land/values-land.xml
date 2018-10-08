@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="abc_action_bar_default_height_material">48dp</dimen>
+    <dimen name="abc_action_bar_progress_bar_size">32dp</dimen>
+    <dimen name="abc_text_size_subtitle_material_toolbar">12dp</dimen>
+    <dimen name="abc_text_size_title_material_toolbar">14dp</dimen>
+    <dimen name="card_on_app_bar_side_padding">72dp</dimen>
+    <dimen name="detail_header_height">144dp</dimen>
+    <dimen name="detail_header_image_height">112dp</dimen>
+    <dimen name="title_view_height">56dp</dimen>
+    <integer name="detail_header_tile_maxLines">1</integer>
+    <style name="Widget.Design.TabLayout" parent="Base.Widget.Design.TabLayout">
+        <item name="tabGravity">center</item>
+        <item name="tabMode">fixed</item>
+    </style>
+</resources>

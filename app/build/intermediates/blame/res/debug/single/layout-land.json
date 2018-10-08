@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/aniketwaliyan/Documents/Music-Player test1/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-land/mi_fragment_simple_slide_scrollable.xml",
+        "source": "/Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-intro-1.6.2.aar/0ede637c1d0fb8d3366e82bf9e3e5941/res/layout-land/mi_fragment_simple_slide_scrollable.xml"
+    },
+    {
+        "merged": "/Users/aniketwaliyan/Documents/Music-Player test1/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout-land/mi_fragment_simple_slide.xml",
+        "source": "/Users/aniketwaliyan/.gradle/caches/transforms-1/files-1.1/material-intro-1.6.2.aar/0ede637c1d0fb8d3366e82bf9e3e5941/res/layout-land/mi_fragment_simple_slide.xml"
+    }
+]
