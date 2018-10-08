@@ -1,7 +1,7 @@
 # Music Player
 
 
-**Beautiful and material Music Player** <p align="center"><img width="128" height="128" src="images/icon.JPEG" /></p>
+**Beautiful and material Music Player** 
 
 --------
 
