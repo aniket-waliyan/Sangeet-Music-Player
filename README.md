@@ -5,11 +5,11 @@
 
 --------
 <div style="display: flex; align-items: flex-start;">
-  <img src="./images/1"/>
-  <img src="./images/2"/>
-  <img src="./images/3"/>
-  <img src="./images/4"/>
-  <img src="./images/5"/>
+  <img src="./images/1.png"/>
+  <img src="./images/2.png"/>
+  <img src="./images/3.png"/>
+  <img src="./images/4.png"/>
+  <img src="./images/5.png"/>
 <!-- ![Screenshots](./images/1.png?raw=true)
 ![Screenshots](./images/2.png?raw=true)
 ![Screenshots](./images/3.png?raw=true)
