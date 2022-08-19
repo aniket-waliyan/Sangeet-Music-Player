@@ -5,7 +5,7 @@
 
 --------
 <div style="display: flex; align-items: flex-start;">
-  <img src="./images/1.png" height="300" width="300"/>
+  <img src="./images/1.png" height="600" width="300"/>
   <img src="./images/2.png"/>
   <img src="./images/3.png"/>
   <img src="./images/4.png"/>
