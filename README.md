@@ -1,16 +1,16 @@
 # Music Player
 
 
-**Beautiful and material Music Player** 
-y' src='https://pla
+**Beautiful and material Music Player**
 
 --------
-
+<div style="display: flex; align-items: flex-start;">
 ![Screenshots](./images/1.png?raw=true)
 ![Screenshots](./images/2.png?raw=true)
 ![Screenshots](./images/3.png?raw=true)
 ![Screenshots](./images/4.png?raw=true)
 ![Screenshots](./images/5.png?raw=true)
+</div>
 
 --------
 
