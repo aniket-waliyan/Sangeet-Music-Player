@@ -1,8 +1,5 @@
 # Music Player
 
-
-**Beautiful and material Music Player**
-
 --------
 <div style="display: flex; align-items: flex-start;">
   <img src="./images/1.png" height="550" width="250"/>
@@ -22,7 +19,7 @@
 - Now playing themes
 - Sleep timer
 - Show internal lyric
-- Theming (Light, Dark, Black (for AMOLED))
+- Theming (Light, Dark)
 - Widgets
 
 
